@@ -1,0 +1,7 @@
+D:\nhan4651050180\BTH1\BTH1\obj\Debug\BTH1.csproj.AssemblyReference.cache
+D:\nhan4651050180\BTH1\BTH1\obj\Debug\BTH1.csproj.CoreCompileInputs.cache
+D:\nhan4651050180\BTH1\BTH1\bin\Debug\BTH1.exe.config
+D:\nhan4651050180\BTH1\BTH1\bin\Debug\BTH1.exe
+D:\nhan4651050180\BTH1\BTH1\bin\Debug\BTH1.pdb
+D:\nhan4651050180\BTH1\BTH1\obj\Debug\BTH1.exe
+D:\nhan4651050180\BTH1\BTH1\obj\Debug\BTH1.pdb
